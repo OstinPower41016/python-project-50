@@ -26,4 +26,3 @@ def genDiff(path_to_file1, path_to_file2):
         res.append("}")
 
     return "\n".join(res)
-
